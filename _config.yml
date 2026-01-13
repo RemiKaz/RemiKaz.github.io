@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rémi Kazmierczak / Independent Researcher"
+title                    : "Rémi Kazmierczak"
 title_separator          : "-"
 name                     : &name "Rémi Kazmierczak"
 description              : &description "Independent Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "moi2.jpg"
   name             : "Rémi Kazmierczak"
   pronouns         : # example: "she/her"  
-  bio              : "Independent Researcher in deep learning interpretability"
+  bio              : "Researcher in deep learning interpretability"
   location         : "Paris, France"
   employer         : "Independant"
   uri              : # URL
@@ -39,7 +39,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Remi-Kazmierczak"
 
   # Repositories and software development
-  github           : "https://github.com/RemiKaz" 
+  github           : "RemiKaz" 
 
   # Social media
   #twitter          : # Username for X / Twitter
