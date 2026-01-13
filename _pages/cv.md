@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Here is my CV in PDF format: [CV.pdf](files/CV_Rémi_Kazmierczak_English.pdf). 
+Here is my CV in PDF format: [CV.pdf](https://github.com/RemiKaz/RemiKaz.github.io/files/CV_Rémi_Kazmierczak_English.pdf). 
 
-I also have a french version: [CV_fr.pdf](files/CV_Rémi_Kazmierczak_Français.pdf).
+I also have a french version: [CV_fr.pdf](https://github.com/RemiKaz/RemiKaz.github.io/files/CV_Rémi_Kazmierczak_Français.pdf).
