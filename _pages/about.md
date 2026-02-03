@@ -16,3 +16,9 @@ My research interests focus on understanding how deep neural networks function, 
 On another note, I love teaching. If you need someone to handle teaching responsibilities, I’d be happy to help!
 
 For now, this website is intended to gather all my information in one place. Just keep in mind that I might forget to update it regularly :eyes:.
+
+---
+
+## News
+- **February 2026:** My paper, **Enhancing Concept Localization in CLIP-based Concept Bottleneck Models
+**, has been published in TMLR. If you are interested about Concept Bottleneck and CLIP, it may be of interest to you. Link: [https://arxiv.org/abs/2510.07115](PAPER)
