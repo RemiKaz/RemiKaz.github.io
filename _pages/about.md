@@ -20,5 +20,4 @@ For now, this website is intended to gather all my information in one place. Jus
 ---
 
 ## News
-- **February 2026:** My paper, **Enhancing Concept Localization in CLIP-based Concept Bottleneck Models
-**, has been published in TMLR. If you are interested about Concept Bottleneck and CLIP, it may be of interest to you. Link: [https://arxiv.org/abs/2510.07115](https://arxiv.org/abs/2510.07115)
+- **February 2026:** My paper, **Enhancing Concept Localization in CLIP-based Concept Bottleneck Models**, has been published in TMLR. If you are interested about Concept Bottleneck and CLIP, it may be of interest to you. Link: [https://arxiv.org/abs/2510.07115](https://arxiv.org/abs/2510.07115)
