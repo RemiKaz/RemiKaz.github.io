@@ -26,7 +26,7 @@ author:
   avatar           : "moi2.jpg"
   name             : "Rémi Kazmierczak"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in deep learning interpretability"
+  bio              : "Researcher in interpretability of deep learning models"
   location         : "(Near) Paris, France"
   employer         : "Independant"
   uri              : # URL
