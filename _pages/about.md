@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Rémi Kazmierczak, and I am a researcher in the field of Interpretability in Deep Learning. I recently graduated from the Institut Polytechnique de Paris (IP Paris) with a PhD conducted in the U2IS laboratory at ENSTA Paris. I am also a graduate of ENS Paris-Saclay. Currently, I am conducting independent research while looking for a post-doctoral position in France, preferably near Paris or Saclay.
+My name is Rémi Kazmierczak, and I am a researcher in the field of Interpretability in Deep Learning. I recently graduated from the Institut Polytechnique de Paris (IP Paris) with a PhD conducted in the U2IS laboratory at ENSTA Paris. I am also a graduate of ENS Paris-Saclay. Currently, I am conducting independent research.
 
 My research interests focus on understanding how deep neural networks function, particularly foundation models. I find it fascinating that we have been able to develop such powerful models, yet we still do not fully understand how they work.
 
@@ -20,4 +20,4 @@ For now, this website is intended to gather all my information in one place. Jus
 ---
 
 ## News
-- **February 2026:** My paper, **Enhancing Concept Localization in CLIP-based Concept Bottleneck Models**, has been published in TMLR. If you are interested about Concept Bottleneck and CLIP, it may be of interest to you. Link: [https://arxiv.org/abs/2510.07115](https://arxiv.org/abs/2510.07115)
+- **February 2026:** **Enhancing Concept Localization in CLIP-based Concept Bottleneck Models**, has been published in TMLR. If you are interested about Concept Bottleneck and CLIP, it may be of interest to you. Link: [https://arxiv.org/abs/2510.07115](https://arxiv.org/abs/2510.07115)
